@@ -1,0 +1,8 @@
+D:\PrimeOrNot\PrimeOrNot\PrimeorNot\obj\Debug\PrimeorNot.csproj.AssemblyReference.cache
+D:\PrimeOrNot\PrimeOrNot\PrimeorNot\obj\Debug\PrimeorNot.csproj.SuggestedBindingRedirects.cache
+D:\PrimeOrNot\PrimeOrNot\PrimeorNot\obj\Debug\PrimeorNot.csproj.CoreCompileInputs.cache
+D:\PrimeOrNot\PrimeOrNot\PrimeorNot\bin\Debug\PrimeorNot.exe.config
+D:\PrimeOrNot\PrimeOrNot\PrimeorNot\bin\Debug\PrimeorNot.exe
+D:\PrimeOrNot\PrimeOrNot\PrimeorNot\bin\Debug\PrimeorNot.pdb
+D:\PrimeOrNot\PrimeOrNot\PrimeorNot\obj\Debug\PrimeorNot.exe
+D:\PrimeOrNot\PrimeOrNot\PrimeorNot\obj\Debug\PrimeorNot.pdb
